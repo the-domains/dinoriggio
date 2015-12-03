@@ -1,7 +1,7 @@
 name: DinoRiggio
 favicon: null
-layout_spectrum: 0.04440903081558645
-typography_spectrum: 0.5924852199386805
+layout_spectrum: 0.55295
+typography_spectrum: 0.75511
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.46375430142506957
-  lightness: 0.17972773942165077
-  saturation: 0.11664468003436923
-  rhythmicContrast: 0.379652988165617
+    - '#00529b'
+    - '#ffffff'
+    - '#959ca2'
+    - '#5881a5'
+    - '#bed9ea'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
